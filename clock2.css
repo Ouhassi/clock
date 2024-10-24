@@ -1,0 +1,28 @@
+
+
+
+
+#clock {
+    color: green;
+    font-size: 180px;
+    width: 900px;
+    margin: 200px;
+    text-align: center;
+    border: 8px solid black;
+    border-radius: 40px;
+}
+
+h1 {
+    color: royalblue;
+    text-align: center;
+    font-size: 80px;
+    margin-top: 80px;
+}
+
+
+.right {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
